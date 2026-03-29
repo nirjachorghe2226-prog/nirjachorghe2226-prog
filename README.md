@@ -45,12 +45,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nirjachorghe2226-prog\&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 🌐 GitHub: https://github.com/nirjachorghe2226-prog
