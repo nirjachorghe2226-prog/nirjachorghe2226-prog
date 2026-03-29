@@ -44,3 +44,6 @@
 ---
 
 ⭐️ *Thanks for visiting my profile!*
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/nirjachorghe2226-prog/output/blob/output/github-contribution-grid-snake.svg)
