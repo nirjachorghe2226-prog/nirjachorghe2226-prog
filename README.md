@@ -37,14 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirjachorghe2226-prog\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirjachorghe2226-prog\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 🌐 GitHub: https://github.com/nirjachorghe2226-prog
