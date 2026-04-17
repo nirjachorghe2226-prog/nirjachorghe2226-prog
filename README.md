@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nirja
+ # Hi there 👋 I'm Nirja
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Learning+Web+Development;Interested+in+AI+and+Software+Development;Always+Learning+New+Things+🚀">
