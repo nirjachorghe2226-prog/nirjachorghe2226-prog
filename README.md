@@ -36,7 +36,7 @@
 
 ## 📂 Projects
 
-🔹 **EduSync** – Academic task & deadline management system
+🔹 **Medguard** 
 🔹 **OpsPulse** – Smart operations and analytics dashboard
 
 ---
