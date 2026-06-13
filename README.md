@@ -38,6 +38,7 @@
 
 🔹 **Medguard** 
 🔹 **OpsPulse** – Smart operations and analytics dashboard
+🔹 **Sales Forecasting Dashboard** – Developed a machine learning-based forecasting system that analyzes historical sales data to predict future revenue trends and support strategic business decisions.
 
 ---
 
